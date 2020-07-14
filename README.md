@@ -1,0 +1,1 @@
+# Borrar-planes-de-ejecuci-n-en-SQL-Server
