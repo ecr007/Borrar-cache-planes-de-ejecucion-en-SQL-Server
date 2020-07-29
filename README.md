@@ -1,4 +1,4 @@
-# Borrar-planes-de-ejecuci-n-en-SQL-Server
+# Borrar planes de ejecucion en SQL Server
 
 ```sql
 -- Borrar todos los planes de memoria cache
